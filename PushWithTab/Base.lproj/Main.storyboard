@@ -86,7 +86,7 @@
                     <navigationItem key="navigationItem" title="B" id="eK8-lo-MqF">
                         <barButtonItem key="rightBarButtonItem" title="Next" id="Bg8-Je-OOk">
                             <connections>
-                                <segue destination="gSe-lv-4FI" kind="push" id="XWI-iy-zkN"/>
+                                <action selector="pushC:" destination="grv-dN-W3v" id="a8v-Hc-3xv"/>
                             </connections>
                         </barButtonItem>
                     </navigationItem>
@@ -136,7 +136,4 @@
             <point key="canvasLocation" x="1433" y="1133"/>
         </scene>
     </scenes>
-    <inferredMetricsTieBreakers>
-        <segue reference="XWI-iy-zkN"/>
-    </inferredMetricsTieBreakers>
 </document>
