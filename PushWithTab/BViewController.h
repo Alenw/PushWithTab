@@ -1,5 +1,5 @@
 //
-//  ViewController.h
+//  BViewController.h
 //  PushWithTab
 //
 //  Created by soyoung on 16/1/27.
@@ -8,8 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface ViewController : UIViewController
-
+@interface BViewController : UIViewController
 
 @end
-
